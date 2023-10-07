@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+    font-weight: bold;
+    font-family: fantasy;
+}
+
+.options:hover{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.divider{
+    position: relative;
+    width: 100%;
+    border: 1px solid black;
+}
